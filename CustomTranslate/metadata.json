@@ -1,5 +1,0 @@
-{
-  "name": "[Ergane] 맞춤형 텍스트 번역기",
-  "description": "An advanced AI translation tool supporting KR, JP, and EN with selectable translation styles (Literal vs. Natural) and OCR capabilities using Gemini 2.5.",
-  "requestFramePermissions": []
-}
